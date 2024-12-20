@@ -1,0 +1,6 @@
+framework module MediaMelonIMA {
+  umbrella header "MediaMelonIMA.h"
+  export *
+
+  module * { export * }
+}

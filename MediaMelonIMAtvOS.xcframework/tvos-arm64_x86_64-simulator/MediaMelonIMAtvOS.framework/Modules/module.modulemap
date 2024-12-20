@@ -1,0 +1,11 @@
+framework module MediaMelonIMAtvOS {
+  umbrella header "MediaMelonIMAtvOS.h"
+  export *
+
+  module * { export * }
+}
+
+module MediaMelonIMAtvOS.Swift {
+  header "MediaMelonIMAtvOS-Swift.h"
+  requires objc
+}
