@@ -78,7 +78,7 @@ google.ima.BrowserlessExports.encryptString = function(text, keyset, callback) {
 /**
  * Gets the type of messaging that will be used to send messages from the JS
  * layer to the native layer of the SDK. Messaging types defined in:
- * javascript/ads/interactivemedia/sdk/native_bridge/constants.js
+ * javascript/ads/interactivemedia/sdk/native_bridge/constants.ts
  *
  * @return {number} The type of messaging used (browserless).
  */
