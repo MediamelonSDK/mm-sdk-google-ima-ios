@@ -4,42 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Assets.car</key>
-		<data>
-		DU5nxD/wDxzSedRsitMGEiqgQh4=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
-		<data>
-		X/E7fDEaH6ovODkICKZWvWo5q9c=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Info.plist</key>
-		<data>
-		vkCTRs3bCRuWXptEFGsqgtuGWoo=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		2GEYmCIvkkcrN+hsd1tqG1bGKB8=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/README.txt</key>
-		<data>
-		5sJWBxkwKmZ8Gim14ZSngzJEEXY=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/VERSION</key>
-		<data>
-		/OXH1n0Hge+dkw1lYrxNL7UUyR4=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/_CodeSignature/CodeResources</key>
-		<data>
-		/NCnlXHjDFQrY4i5NShL1Q6mtR0=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/locales.xml</key>
-		<data>
-		yfs5sMhG0+5BUAm+gide7MxJIcA=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/prelude.js</key>
-		<data>
-		ZX4+zxrwUi4fSd9lCOwJ9aCctXg=
-		</data>
 		<key>Headers/MMSmartStreaming.h</key>
 		<data>
 		jmRZ3FF4iGAdTudZrC2ACUOxhn4=
@@ -62,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CrhL3zdfLYI5NDc7dPmttfJsdD8=
+		7fVld5Sgvmg8+Y0ZrM3YKXDQKvs=
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		EHRtWlzjzq/j30vlqP923cExhds=
+		YPNUpYzo5lyzFSyK9a4YCXN8fss=
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -82,11 +46,11 @@
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		bZ5DwIc1BhCBWNE2B4BOhFbIoUg=
+		QdHAQCyr/Yav+WrSr9HDfQZxMco=
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		EHRtWlzjzq/j30vlqP923cExhds=
+		YPNUpYzo5lyzFSyK9a4YCXN8fss=
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -102,7 +66,7 @@
 		</data>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		W4xu29AjSE9vso5BMFm7MS6Dv8c=
+		cCxgdt49nVGg/m7uj1AUj3YfLIc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,69 +75,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Rw7fzSE1+uZ15opxoxvnml2QlXJo1MdiJ5pV/Yd7Qb8=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JfyPBdZOwqx55fO5rvo+gezpJpe8B+5l5fNvL8GsK3s=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O2qTg6cSCHi1YZmkx7Dxp3jl/KCiySLKYu5KzXOmgN0=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KY7+CzVWnRYMQFLXL8OuniSIuPAkwSfr7V3uPSJU7Jg=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/README.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YF4hLqZnZv39vHXJpyXgm+5YacUqJa+hp3XYeDnwO34=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/VERSION</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yY1mvsM9ElcMew7Z5f0/85q85JKnrbZLjWHaD3/G8IU=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VcH73tGF47t3/mdskRS4/SSJm8osJ9za2XtVOzLEPcw=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/locales.xml</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HdOOwMiCUZ4rkJjBP0MfiRToCxFK4GQhDY+UMLA47W4=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/prelude.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fWtUxZhnjnwjRBfBoUpQOGTh/xeCf9MAupOmbn7Hpug=
-			</data>
-		</dict>
 		<key>Headers/MMSmartStreaming.h</key>
 		<dict>
 			<key>hash2</key>
@@ -213,7 +114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9sH/vVbTqcts3vwwPFhPowyfdTQ1vCYBjj2RUvGBINM=
+			OUfzKu19GijbpUIFN62UxMsiAMGjmNABvSOcdGek0hE=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -241,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yW3U92eZLQTOLt3lsLgMudvaxhUej5B4R9TTbgZLJjI=
+			nwmoa1GXwpgaKngGhsiyCdeSZCcEPtNoF+8f/fGQjew=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9sH/vVbTqcts3vwwPFhPowyfdTQ1vCYBjj2RUvGBINM=
+			OUfzKu19GijbpUIFN62UxMsiAMGjmNABvSOcdGek0hE=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonIMAtvOS.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
@@ -276,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Stp0Ds0SseyK53CsPvIQxplJAbbmync+ofQwlet2jeM=
+			SkUcUBdzW4UlbIQadNwiYLSRI3He1UsAyyIYGInv2CM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

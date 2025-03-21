@@ -4,29 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/Info.plist</key>
 		<data>
-		NIYCQ8X95+jhSCIjzkrSHCttNhA=
+		RWaoir3us7/dTf1S5o/0gDR33L8=
 		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Info.plist</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/Pods_MediaMelonIMA</key>
 		<data>
-		qQPefyocBYCaw5dY+allaM0BSwE=
+		A+E+0Z3RuUunMYHPqdyZxJI+K4g=
 		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/PrivacyInfo.xcprivacy</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2GEYmCIvkkcrN+hsd1tqG1bGKB8=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/README.txt</key>
-		<data>
-		F5I5YvSoIKWAw1i5EzNSuUXgYnY=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/VERSION</key>
-		<data>
-		d/RgP9jy3q/ltS/Gxdllmcgw9Og=
-		</data>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/_CodeSignature/CodeResources</key>
-		<data>
-		aCR7Ysz/mqfoxucrhARDSh8kObA=
+		F3sFc2mjV/lUNI8SXBpXQj5vhk0=
 		</data>
 		<key>Headers/MMSmartStreaming.h</key>
 		<data>
@@ -46,11 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rnVDe+f5Zm88h6LQg69xoFz5H+8=
+		qB60VtmhuU2Xd3fQ3814eiDlIQQ=
 		</data>
 		<key>Modules/MediaMelonIMA.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		mD3qa1XPHLkGoUhLaQl0wh/X980=
+		U+R1Hjv9QoFNhAf9oj9r7y9bdyc=
 		</data>
 		<key>Modules/MediaMelonIMA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -66,7 +54,7 @@
 		</data>
 		<key>Modules/MediaMelonIMA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7W51paBeVpJCL7CBXcttSvmogU8=
+		1KyFJpeyUZEhNiLUj3eR4e1IHVQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,46 +63,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f21Ec4eGp/AoDaoNUF80Y4zOPlRWy1v93ucqiywl4GU=
+			WsFEUG0g9z3tjJrrzKhNiPqbbizvVgwrj/9M2xuRM/U=
 			</data>
 		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/Info.plist</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/Pods_MediaMelonIMA</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qz00f1BkUxRYKYntH5FKHBmV37qVjfWtHiuJwjohQr0=
+			pXF0vXLsdVEqI906H/XA6cZb9If4306ijKFXeOZYQ/o=
 			</data>
 		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/PrivacyInfo.xcprivacy</key>
+		<key>Frameworks/Pods_MediaMelonIMA.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KY7+CzVWnRYMQFLXL8OuniSIuPAkwSfr7V3uPSJU7Jg=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/README.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E7buFUu6svIelbnL1wMMIbUGUD+5soRaqUAuYB9wG5w=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/VERSION</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			79nErSoyIoriSAYl3AY+ECgn3t0V4nWUPnLm5ViWE/s=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleInteractiveMediaAds.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Hlf7STk/i2EG3szwGqgWwVqDI4okI6uJ4P9W5eGu4ro=
+			+i2fQliU5oKUMUmkUoDyB5vNkncOqLoJ/D3Y8MkUBu4=
 			</data>
 		</dict>
 		<key>Headers/MMSmartStreaming.h</key>
@@ -149,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+xpea34SckzfGOFN9etfhVjdHlicpg+SVOuZnD9FGFM=
+			mt2vRBejaTWS2dlw7xOqa9WUF0g2ue5/aM9yiILk+iQ=
 			</data>
 		</dict>
 		<key>Modules/MediaMelonIMA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -177,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L93MJyelFmMUt+g+/Yz9iEmmybBX30e37+Pb0LIqaaM=
+			9QuXi6TgCeaX2vI51j3Os5Pl7hZkwLmcnJFGrN1V6ac=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
